@@ -11,5 +11,8 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-babel": "^5.1.0"
+  },
+  "dependencies": {
+    "prompt": "^0.2.14"
   }
 }
